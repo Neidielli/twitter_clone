@@ -11,3 +11,6 @@
 * FrameWork: Bootstrap; 
 * SGBD: phpMyAdmin;
 
+# ⚡ Melhorias:
+
+# ⚙️ Execução:
